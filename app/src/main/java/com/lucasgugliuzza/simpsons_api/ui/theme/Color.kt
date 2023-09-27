@@ -11,3 +11,9 @@ val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 
 val BackgroundApp = Color(0xF0FDD835)
+
+
+val HistoriaString = Color(0xFF3949AB)
+val EstadoString = Color(0xFF43A047)
+val GeneroString = Color(0xFFF4511E)
+val OcupacionString = Color(0xFF00ACC1)
